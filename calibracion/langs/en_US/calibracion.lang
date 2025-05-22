@@ -1,0 +1,42 @@
+# Translation file
+
+#
+# Generic
+#
+
+# Module label 'ModuleCalibracionName'
+ModuleCalibracionName = Calibracion
+# Module description 'ModuleCalibracionDesc'
+ModuleCalibracionDesc = Calibracion description
+
+#
+# Admin page
+#
+CalibracionSetup = Calibracion setup
+Settings = Settings
+CalibracionSetupPage = Calibracion setup page
+NewSection=New section
+CALIBRACION_MYPARAM1 = My param 1
+CALIBRACION_MYPARAM1Tooltip = My param 1 tooltip
+CALIBRACION_MYPARAM2=My param 2
+CALIBRACION_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+CalibracionAbout = About Calibracion
+CalibracionAboutPage = Calibracion about page
+
+#
+# Sample page
+#
+CalibracionArea = Home Calibracion
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description

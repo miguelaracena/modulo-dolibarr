@@ -1,0 +1,94 @@
+= CALIBRACION =
+:subtitle: CALIBRACION DOCUMENTATION
+:source-highlighter: rouge
+:companyname: Plustech Solutions Bolivian
+:corpname: Plustech Solutions Bolivian
+:orgname: Plustech Solutions Bolivian
+:creator: SuperAdmin
+:title: Documentation of module Calibracion
+:subject: This document is the document of module Calibracion.
+:keywords: Calibracion
+// Date du document :
+:docdate: 2025-05-22
+:toc: manual
+:toc-placement: preamble
+
+
+== TOPIC OF DOCUMENT
+
+This is the documentation of module Calibracion
+
+
+*Log of versions of document*
+
+[options="header",format="csv"]
+|=== 
+Author, Date, Version
+--- SuperAdmin   ---, 2025-05-22, Version 1.0
+|===
+
+
+[NOTE]
+==============
+This document was generated using Dolibarr ERP CRM process
+==============
+
+
+:toc: manual
+:toc-placement: preamble
+
+
+
+== INTRODUCTION
+
+//include::README.md[]
+__README__
+
+== DATA SPECIFICATIONS
+=== Table of fields with properties for object *Calibracion* : 
+[options='header',grid=rows,frame=topbot,width=100%,caption=Organisation]
+|===
+|code|type|label|enabled|position|notnull|visible|noteditable|index|default|foreignkey|arrayofkeyval|alwayseditable|validate|searchall|comment|isameasure|css|cssview|csslist|help|showoncombobox|picto
+|*"rowid"*||||10|1|||||||||||||||||
+|*"ref"*||||15|1|||||||||||||||||
+|*"nom_equipo"*||||20|1|||||||||||||||||
+|*"tipo_equipo"*||||25|0|||||||||||||||||
+|*"categoria"*||||30|0|||||||||||||||||
+|*"fk_thirdparty"*||||35|0|||||||||||||||||
+|*"fecha_ult_cal"*||||40|0|||||||||||||||||
+|*"fecha_prox_cal"*||||45|0|||||||||||||||||
+|*"estado_cal"*||||50|0|||||||||||||||||
+|*"datec"*||||60|0|||||||||||||||||
+|*"tms"*||||65|1|||||||||||||||||
+|*"fk_user_creat"*||||70|0|||||||||||||||||
+|*"fk_user_modif"*||||75|-1|||||||||||||||||
+|===
+__ end table for object Calibracion
+
+
+__DATA_SPECIFICATION__
+
+
+== MATRIX OF PERMISSIONS
+
+[options='header',grid=rows,width=60%,caption=Organisation]
+|===
+|Objects|Permission
+|*calibracion*|Read Calibracion object of Calibracion , Create/Update Calibracion object of Calibracion , Delete Calibracion object of Calibracion , 
+
+|===
+
+
+
+== OTHER
+
+__API_DOC__
+
+
+== CHANGELOG
+
+
+# CHANGELOG CALIBRACION FOR [DOLIBARR ERP CRM](https://www.dolibarr.org)
+ 1.0
+Initial version
+
